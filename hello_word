@@ -1,0 +1,11 @@
+from random import choice
+
+print("Hello World")
+
+
+def main():
+    person = choice(personsfggff)
+
+
+if __name__ == '__main__':
+    main()
